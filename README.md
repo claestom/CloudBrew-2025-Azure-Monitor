@@ -4,7 +4,7 @@ Materials and resources for the CloudBrew 2025 Azure Monitor session covering th
 
 ## 📋 Session Materials
 
-- **[CloudBrew 2025 deck.pdf](CloudBrew%202025%20deck.pdf)** - Complete presentation slides
+**[CloudBrew 2025 deck.pdf](CloudBrew%202025%20deck.pdf)** - Complete presentation slides
 
 ## 🔗 Essential Documentation
 
