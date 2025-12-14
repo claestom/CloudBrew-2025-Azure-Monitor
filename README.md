@@ -13,6 +13,7 @@ Materials and resources for the CloudBrew 2025 Azure Monitor session covering th
 - [Quick Start Guide](https://docs.microsoft.com/en-us/azure/azure-monitor/essentials/quick-monitor-azure-resource)
 - [Alerts](https://docs.microsoft.com/en-us/azure/azure-monitor/alerts/alerts-overview)
 - [Dynamic Thresholding](https://docs.azure.cn/en-us/azure-monitor/alerts/alerts-types#apply-advanced-machine-learning-with-dynamic-thresholds)
+- [Azure Monitor Baseline Alerts](https://azure.github.io/azure-monitor-baseline-alerts/welcome/)
 
 📢 [Latest announcements](https://techcommunity.microsoft.com/blog/azureobservabilityblog/advancing-full-stack-observability-with-azure-monitor-at-ignite-2025/4469041) & [the SRE Agent](https://techcommunity.microsoft.com/blog/appsonazureblog/expanding-the-public-preview-of-the-azure-sre-agent/4458514).
 
